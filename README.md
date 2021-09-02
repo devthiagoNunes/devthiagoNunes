@@ -23,6 +23,6 @@
   
 
 - 🔭 Atualmente trabalho com JavasCript no Back-End com Node Js
-- 📕 Estou estudando TypesCript e TDD
+- 📕 Estudando TypesCript e TDD
 - 🎨 Noções de Front-End
 - Express e outros frameworks de Node
