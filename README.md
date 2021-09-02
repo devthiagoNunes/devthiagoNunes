@@ -14,12 +14,13 @@
   
 </div>
   </br>
-  <div>
-   <a href="mailto:desenvolvedor.nunes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-   <a href="https://www.linkedin.com/in/thiago-nunes-3a7771219/">
-    <img align="center" alt="thiago-Node Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
- </a>
+  <div style="align-itens=center">
+     <a href="mailto:desenvolvedor.nunes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+     <a href="mailto:desenvolvedor.nunes@gmail.com">
+      <img alt="thiago-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+      </a> 
   </div>
+  
 
 - 🔭 Atualmente trabalho com JavasCript no Back-End com Node Js
 - 📕 Estou estudando TypesCript e TDD
