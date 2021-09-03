@@ -21,8 +21,8 @@
       </a> 
   </div>
   
-
-- 🔭 Atualmente trabalho com JavasCript no Back-End com Node Js
-- 📕 Estudando TypesCript e TDD
-- 🎨 Noções de Front-End
-- Express e outros frameworks de Node
+- Atualmente trabalho com JavasCript no Back-End com Node Js
+- Conhecimento em express e outros frameworks de Node
+- Maior habilidade em Back-End
+- Estudando TypesCript e TDD
+- Noções de Front-End
