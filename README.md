@@ -11,8 +11,6 @@
   <img align="center" alt="thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="thiago-Node Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="thiago-Node Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="thiago-Node Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  
 </div>
   </br>
   <div style="align-itens=center">
@@ -25,5 +23,5 @@
 - Atualmente trabalho com JavasCript no Back-End com Node Js
 - Conhecimento em express e outros frameworks de Node
 - Maior habilidade em Back-End
-- Estudando TypesCript, TDD e Java
+- Estudando TypesCript, TDD
 - Noções de Front-End
