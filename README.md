@@ -1,6 +1,6 @@
 ### Olá, me chamo thiago👋
  <div style="display: flex">
-  <a href="https://github.com/devthiagoNunes">
+  <a href="https://github.com/devthg-nunes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devthiagoNunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devthiagoNunes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
