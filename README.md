@@ -1,5 +1,5 @@
 ### Olá, me chamo thiago👋. Iniciei minha jornada no desenvolvimento de software voltado ao front-end em maio de 2021, e desde então estou em contante busca pelo aprendizado continuo e aplicando os conhecimentos em projetos pessoais ou profissionais.
-<h2>Para obter mais detalhes de projetos e experiências acesse <a href="https://portifolio-six-navy-43.vercel.app/home">meu portifólio</a></h2>
+<h2>Para obter mais detalhes de projetos e experiências acesse <a href="https://portifolio-six-navy-43.vercel.app/home">meu portfólio</a></h2>
  <div style="display: flex">
   <a href="https://github.com/thg-nunes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thg-nunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
